@@ -1,5 +1,5 @@
 - Hey there! My name is Cynthia and I'm a developer who specializes in lua/luau
-- My pronouns are she/they and I consider myself a silly person :>
+- I consider myself a silly person :>
 - I also really like cats because they are so silly and cuteeeee 🥺
 
 <!---
